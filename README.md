@@ -13,7 +13,7 @@ A responsive React + Redux Toolkit app that tracks real-time crypto prices (like
 
 ## 🖼️ Screenshot
 
-![Crypto Tracker Screenshot](./cryptoSS.png)
+![Crypto Tracker Screenshot](public/cryptoSS.png)
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ A responsive React + Redux Toolkit app that tracks real-time crypto prices (like
    ```bash
    npm run dev
    ```
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+4. Open [https://xiv-tech-assignment-eight.vercel.app/] in your browser.
 
 ## 📁 Project Structure
 
